@@ -5,4 +5,4 @@ spring:
     password: '{cipher}b4a66ff39603025a8c04fb4b9cd3ce21c368f14bfd795b66bbfbd4bebcc3d55f'
 
 order_service:
-  url: http://localhost:8000/order-service/%s/orders
+  url: http://ORDER-SERVICE/order-service/%s/orders
