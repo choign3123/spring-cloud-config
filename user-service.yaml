@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/testdb
+    url: jdbc:mysql://msa-mysql:3306/testdb
     username: root
     password: '{cipher}b4a66ff39603025a8c04fb4b9cd3ce21c368f14bfd795b66bbfbd4bebcc3d55f'
 
